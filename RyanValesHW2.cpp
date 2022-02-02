@@ -1,5 +1,5 @@
 /*
-Ryan Vales-S00339723
+Ryan Vales
 CSCI 3400
 HW2
 */
